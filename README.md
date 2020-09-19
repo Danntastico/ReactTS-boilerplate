@@ -6,6 +6,17 @@ Yes this is an alternative to create-react-app.
 
 😀 Happy Codding!
 
+# installing
+
+Just clone this repo, and install it by using:
+
+```
+npm run install
+```
+
+and go to the ```package.json``` and change the name of the project, the description and the author.
+
+
 # Main Setup
 
 Here are the list of package that we are going to install in order to setup our project!
